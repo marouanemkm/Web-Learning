@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+}
+form{
+    width: 50%;
+    margin: 0 auto;
+}
+h1{
+    margin: 20px 20px;
+    text-align: center;
+}
+.go-signup{
+    text-align: center;
+    margin-top: 50px;
+}
+.error{
+    color: red;
+}
+th{
+    font-size: 20px;
+    text-align: center !important;
+}
+td{
+    text-align: center !important;
+}
+td:first-child{
+    background: rgb(173, 173, 173);
+}
+.button{
+    margin-top: 100px;
+}
+.rating a {
+    float: right;
+    color: #aaa;
+    text-decoration: none;
+    font-size: 2em;
+    transition: color .4s;
+}
+.rating a:hover, .rating a:focus {
+    color: orange;
+    cursor: pointer;
+}
+.rating a:hover ~ a, .rating a:focus ~ a {
+   color: orange;
+}
