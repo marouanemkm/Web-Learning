@@ -6,6 +6,6 @@ Ce projet est un espace membre permettant de voir des cours et d'y laisser des c
 à l'utilisateur ayant les droits de créer un nouveau cours et de supprimer ceux déjà existant. il peut aussi gérer les commentaires des videos. Enfin l'utilisateur
 peut bien sûr créer un compte ou encore se déconnecter.
 
-Avec un délai assez court, peut d'efforts ont étés déployé sur la partie css, qui pourrait faire l'objet d'amélioration visuelles.
+Peu d'efforts ont étés déployé sur la partie css, qui pourrait faire l'objet d'amélioration futures.
 
 Projet réalisé en PHP, par Makroum Marouane.
